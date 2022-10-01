@@ -1,6 +1,6 @@
 ;; init-nand2tetris.el --- Several major modes for the nand2tetris projects.	-*- lexical-binding: t -*-
 
-;; Copyright (C) 2019 Juan Cortez
+;; Copyright (C) 2022 Deng Li
 
 ;; Author: Juan Cortez <juancortez0128@gmail.com>
 ;; URL: https://github.com/Juan-Cortez3/dot_emacs_dot_d
